@@ -1,10 +1,11 @@
 ---
-title: "Allan Lab - Team"
+title: "BRL@UCY - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "Bioinformatics Research Laboratory at UCY: Team members"
 sitemap: false
 permalink: /team/
 ---
+
 
 # Group Members
 
@@ -27,6 +28,7 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+    <h5>{{ member.info2 }}</h5> 
   <ul style="overflow: hidden">
 
   {% if member.number_educ == 1 %}
