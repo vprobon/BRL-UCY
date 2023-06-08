@@ -28,8 +28,8 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
   <i>{{ member.info }}</i> <br>
-  <i style="background-color: ligthgrey">{{ member.info2 }}</i>
-  <br>email: <{{ member.email }}></i> 
+  <i style="background-color: lightgrey">{{ member.info2 }}</i>
+  <br>email: <{{ member.email }}>
     <!--<br>email: <{{ member.email }}></i> -->
     
   <ul style="overflow: hidden">
