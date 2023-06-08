@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "BRL@UCY - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "Bioinformatics Research Laboratory at UCY."
 sitemap: false
 permalink: /
 ---
