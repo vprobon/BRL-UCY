@@ -49,6 +49,24 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Nireas_talk.jpeg" alt="Talk at NIREAS center" />
         </div>
         
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/E7_HBIObridge.jpeg" alt="Marios Eftychiou, E7-POU5F1, HBIObridge" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LIRcentral_HBIObridge.jpeg" alt="Agathangelos Chatzichristofi, LIRcentral, HBIObridge" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Lab_getting_wet.jpeg" alt="BRL getting wet, bacterial cultures" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/OST_Malaria_HBIO2016.jpeg" alt="Stella Tamana, OST, Malaria, HBIO2016" />
+        </div>
+
+
+
+
+
+
 
 <!--
         <div class="item">
