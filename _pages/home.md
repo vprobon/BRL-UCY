@@ -33,16 +33,16 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf1_ELIXIR-CY.jpeg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf1_ELIXIR-CY.jpeg" alt="ELIXIR-CY talk at HBIO Thessaloniki" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf2_ELIXIR-CY.jpeg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf2_ELIXIR-CY.jpeg" alt="ELIXIR-CY talk at HBIO Thessaloniki" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf3_ELIXIR-CY.jpeg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf3_ELIXIR-CY.jpeg" alt="ELIXIR-CY talk at HBIO Thessaloniki" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Nireas_talk.jpeg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Nireas_talk.jpeg" alt="Talk at NIREAS center" />
         </div>
         <!--
         <div class="item">
@@ -63,6 +63,15 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
   </a>
 </div>
 
+
+
+In particular, I have a long-standing interest in the study of classes of non-globular proteins (e.g. transmembrane proteins, protein sequences with local compositional biases or repeats) and during the last decade we have focused our research on protein components of eukaryotic endomembrane systems, in particular nuclear pore complex subunits and components of the autophagy machinery. 
+
+More specifically, we devise algorithms, methods/tools, databases and computer systems for:
+
+1. Protein sequence analysis and structural bioinformatics, e.g. repeats, low complexity/compositional bias, intrinsic structural disorder, (trans)membrane proteins.
+2. Computational comparative genomics, e.g. evolution of low complexity/compositionally biased sequences, computational approaches for synthetic biology (recently with wet-lab expansion).
+3. Biomedical text mining and its applications in biocuration (with a focus in selective autophagy)
 
 <!--
 
