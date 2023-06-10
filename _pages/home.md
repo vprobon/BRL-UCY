@@ -1,7 +1,7 @@
 ---
 title: "BRL@UCY - Home"
 layout: homelay
-excerpt: "Bioinformatics Research Laboratory at UCY."
+excerpt: "Bioinformatics Research Lab @ UCY."
 sitemap: false
 permalink: /
 ---
@@ -85,6 +85,7 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 
  
 -->
+
 **We are constantly looking for passionate new PhD students, Postdocs, and Master students to join the team** [(more info)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 <!--
