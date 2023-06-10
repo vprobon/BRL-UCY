@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Pictures"
+title: "BRL@UCY - Pictures"
 layout: piclay
-excerpt: "Allan Lab -- Pictures"
+excerpt: "Bioinformatics Research Laboratory at UCY -- Pictures"
 permalink: /pictures/
 ---
 
