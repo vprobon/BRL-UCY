@@ -37,6 +37,12 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf2_ELIXIR-CY.jpeg" alt="ELIXIR-CY talk at HBIO Thessaloniki" />
         </div>
         <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SpeedyMicrobes.jpeg" alt="SpeedyMicrobes Talk at βιοςSBSCy conference at UCY" />
+        </div>
+        <div class="item">
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NUPs_HBIObridge.jpeg" alt="NUP-PSSM-LIB Talk at βιοςSBSCy conference at UCY" />
+        </div>
+        <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf3_ELIXIR-CY.jpeg" alt="ELIXIR-CY talk at HBIO Thessaloniki" />
         </div>
         <div class="item">
