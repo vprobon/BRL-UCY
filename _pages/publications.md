@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "BRL@UCY - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Bioinformatics Research Laboratory@UCY-- Publications."
 sitemap: false
 permalink: /publications/
 ---
