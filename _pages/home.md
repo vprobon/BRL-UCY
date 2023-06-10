@@ -1,7 +1,7 @@
 ---
-title: "BRL@UCY - Home"
+title: "Bioinformatics Research Lab @ UCY - Home"
 layout: homelay
-excerpt: "Bioinformatics Research Lab @ UCY."
+excerpt: "BRL@UCY."
 sitemap: false
 permalink: /
 ---
