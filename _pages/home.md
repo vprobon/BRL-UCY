@@ -64,8 +64,9 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
 </div>
 
 
+We are mostly interested in problems related to proteins sequence-structure-function and we have are recent interest in the interface of computational genomics and synthetic (micro)biology.
 
-In particular, I have a long-standing interest in the study of classes of non-globular proteins (e.g. transmembrane proteins, protein sequences with local compositional biases or repeats) and during the last decade we have focused our research on protein components of eukaryotic endomembrane systems, in particular nuclear pore complex subunits and components of the autophagy machinery. 
+In particular, we have a long-standing interest in the study of classes of non-globular proteins (e.g. transmembrane proteins, protein sequences with local compositional biases or repeats). During the last decade we have focused our research on protein components of eukaryotic endomembrane systems, in particular nuclear pore complex subunits and components of the autophagy machinery. 
 
 More specifically, we devise algorithms, methods/tools, databases and computer systems for:
 
@@ -83,7 +84,11 @@ We are located at Leiden University, the birthplace of superconductivity and hom
 
 -->
 
+<!--
 We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi talent scheme](http://www.nwo.nl/en/research-and-results/programmes/Talent+Scheme) and the [Frontiers in Nanoscience program](https://www.universiteitleiden.nl/en/research/research-projects/science/frontiers-of-nanoscience-nanofront)), and from an [ERC starting grant](https://erc.europa.eu/funding/starting-grants).
+-->
+
+We are supported by the University of Cyprus. External funding resources throughout the years include the  [Cyprus Research and Innovation Foundation]() and the European Commission ().
 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
