@@ -6,6 +6,11 @@ sitemap: false
 permalink: /
 ---
 
+
+We are a small -- yet interdisciplinary -- group at the [Department of Biological Sciences]() at the [University of Cyprus](). Our research in computational biology and bioinformatics is mainly oriented towards the interpretation of large scale genomic and biological data in order to reveal the principles governing the molecular basis of life. Along these lines, we develop/utilize computational methods (empirical, statistical and machine/deep learning) that exploit any available type of biological information (e.g. macromolecular sequences and structures, gene expression data, biomedical literature) towards understanding biological systems, ranging from macromolecules and macromolecular complexes, to phenotypes.![image](https://github.com/vprobon/BRL_UCY/assets/49338525/fd25bb3a-1fd6-4a26-9178-b25d5f0086c6)
+
+
+
 We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
 
 
