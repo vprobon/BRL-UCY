@@ -38,14 +38,7 @@
 - title: "DisProt in 2022: improved quality and accessibility of protein intrinsic disorder annotation."
   image: paper1.jpg
   description: 
-  authors: >
-  Quaglia F, Mészáros B, Salladini E, Hatos A, Pancsa R, Chemes LB, Pajkos M, Lazar T, Peña-Díaz S, Santos J, Ács V, Farahi N, Fichó E, Aspromonte MC, Bassot
-C, Chasapi A, Davey NE, Davidović R, Dobson L, Elofsson A, Erdős G, Gaudet P, Giglio M, Glavina J, Iserte J, Iglesias V, Kálmán Z, Lambrughi M, Leonardi E,
-Longhi S, Macedo-Ribeiro S, Maiani E, Marchetti J, Marino-Buslje C, Mészáros A,
-Monzon AM, Minervini G, Nadendla S, Nilsson JF, Novotný M, Ouzounis CA, Palopoli
-N, Papaleo E, Pereira PJB, Pozzati G, Promponas VJ, Pujols J, Rocha ACS, Salas
-M, Sawicki LR, Schad E, Shenoy A, Szaniszló T, Tsirigos KD, Veljkovic N, Parisi
-G, Ventura S, Dosztányi Z, Tompa P, Tosatto SCE, Piovesan D.
+  authors: Quaglia F, Mészáros B, Salladini E, Hatos A, Pancsa R, Chemes LB, Pajkos M, Lazar T, Peña-Díaz S, Santos J, Ács V, Farahi N, Fichó E, Aspromonte MC, Bassot C, Chasapi A, Davey NE, Davidović R, Dobson L, Elofsson A, Erdős G, Gaudet P, Giglio M, Glavina J, Iserte J, Iglesias V, Kálmán Z, Lambrughi M, Leonardi E, Longhi S, Macedo-Ribeiro S, Maiani E, Marchetti J, Marino-Buslje C, Mészáros A, Monzon AM, Minervini G, Nadendla S, Nilsson JF, Novotný M, Ouzounis CA, Palopoli N, Papaleo E, Pereira PJB, Pozzati G, Promponas VJ, Pujols J, Rocha ACS, Salas M, Sawicki LR, Schad E, Shenoy A, Szaniszló T, Tsirigos KD, Veljkovic N, Parisi G, Ventura S, Dosztányi Z, Tompa P, Tosatto SCE, Piovesan D.
   link:
     url: https://doi.org/10.1093/nar/gkab1082
     display: Nucleic Acids Res. 2022 Jan 7;50(D1):D480-D487
@@ -66,13 +59,7 @@ G, Ventura S, Dosztányi Z, Tompa P, Tosatto SCE, Piovesan D.
 - title: "Statistical and Machine Learning Techniques in Human Microbiome Studies: Contemporary Challenges and Solutions."
   image: lalal.jpg
   description: ""
-  authors: >
-Moreno-Indias I, Lahti L, Nedyalkova M, Elbere I, Roshchupkin G, Adilovic M,
-Aydemir O, Bakir-Gungor B, Santa Pau EC, D'Elia D, Desai MS, Falquet L, Gundogdu
-A, Hron K, Klammsteiner T, Lopes MB, Marcos-Zambrano LJ, Marques C, Mason M, May
-P, Pašić L, Pio G, Pongor S, Promponas VJ, Przymus P, Saez-Rodriguez J, Sampri
-A, Shigdel R, Stres B, Suharoschi R, Truu J, Truică CO, Vilne B, Vlachakis D,
-Yilmaz E, Zeller G, Zomer AL, Gómez-Cabrero D, Claesson MJ.
+  authors: Moreno-Indias I, Lahti L, Nedyalkova M, Elbere I, Roshchupkin G, Adilovic M, Aydemir O, Bakir-Gungor B, Santa Pau EC, D'Elia D, Desai MS, Falquet L, Gundogdu A, Hron K, Klammsteiner T, Lopes MB, Marcos-Zambrano LJ, Marques C, Mason M, May P, Pašić L, Pio G, Pongor S, Promponas VJ, Przymus P, Saez-Rodriguez J, Sampri A, Shigdel R, Stres B, Suharoschi R, Truu J, Truică CO, Vilne B, Vlachakis D, Yilmaz E, Zeller G, Zomer AL, Gómez-Cabrero D, Claesson MJ.
   link:
     url: https://doi.org/10.3389/fmicb.2021.635781
     display: Front Microbiol. 2021;12:635781. 
