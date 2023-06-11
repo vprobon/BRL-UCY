@@ -122,10 +122,10 @@ We are grateful for funding from Leiden University, [NWO](www.nwo.nl) ([Vidi tal
 We are supported by the University of Cyprus. External funding resources throughout the years include the  [Cyprus Research and Innovation Foundation](https://www.research.org.cy/en/) and the [European Union] (https://ec.europa.eu/info/funding-tenders/opportunities/portal/). In particular, our [LIRcentral] (https://lircentral.eu/) project is co-funded by the European Union (European Regional Development Fund, ERDF) and the Republic of Cyprus through the project EXCELLENCE/0421/0576 under the EXCELLENCE HUBS programme of the Cyprus Research and Innovation Foundation.
 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_LIRcentral-FundedBy.png" style="width: 810px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_LIRcentral-FundedBy.png" style="width: 600px">
 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UCY_en_.jpg" style="width: 110px">
 <!--
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
 -->
