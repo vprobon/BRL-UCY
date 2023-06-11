@@ -146,6 +146,67 @@
   highlight: 1    
 # PMID: 30698641; PMCID: PMC7299295.
 
+- title: 'DisProt: intrinsic protein disorder annotation in 2020.'
+  image:
+  description:
+  authors: Hatos A, Hajdu-Soltész B, Monzon AM, Palopoli N, Álvarez L, Aykac-Fas B, Bassot C, Benítez GI, Bevilacqua M, Chasapi A, Chemes L, Davey NE, Davidović R, Dunker AK, Elofsson A, Gobeill J, Foutel NSG, Sudha G, Guharoy M, Horvath T, Iglesias V, Kajava AV, Kovacs OP, Lamb J, Lambrughi M, Lazar T, Leclercq JY, Leonardi E, Macedo-Ribeiro S, Macossay-Castillo M, Maiani E, Manso JA, Marino-Buslje C, Martínez-Pérez E, Mészáros B, Mičetić I, Minervini G, Murvai N, Necci M, Ouzounis CA, Pajkos M, Paladin L, Pancsa R, Papaleo E, Parisi G, Pasche E, Barbosa Pereira PJ, Promponas VJ, Pujols J, Quaglia F, Ruch P, Salvatore M, Schad E, Szabo B, Szaniszló T, Tamana S, Tantos A, Veljkovic N, Ventura S, Vranken W, Dosztányi Z, Tompa P, Tosatto SCE, Piovesan D. 
+  link:
+    url: https://doi.org/10.1093/nar/gkz975
+    display: Nucleic Acids Res. 202048(D1):D269-D276.
+  highlight: 1    
+# PMID: 31713636; PMCID: PMC7145575.
+
+- title:   'Establishment of computational biology in Greece and Cyprus: Past, present, and future.'
+  image:
+  description:
+  authors: Chasapi A, Aivaliotis M, Angelis L, Chanalaris A, Iliopoulos I, Kappas I, Karapiperis C, Kyrpides NC, Pafilis E, Panteris E, Topalis P, Tsiamis G, Vizirianakis IS, Vlassi M, Promponas VJ, Ouzounis CA.
+  link:
+    url: https://doi.org/10.1371/journal.pcbi.1007532
+    display: PLoS Comput Biol. 2019;15(12):e1007532.
+  highlight: 1    
+# PMID: 31856214; PMCID: PMC6922331.
+
+- title: Tandem repeats lead to sequence assembly errors and impose multi-level challenges for genome and protein databases. 
+  image:
+  description:
+  authors: Tørresen OK, Star B, Mier P, Andrade-Navarro MA, Bateman A, Jarnot P, Gruca A, Grynberg M, Kajava AV, Promponas VJ, Anisimova M, Jakobsen KS, Linke D.
+  link:
+    url: https://doi.org/10.1093/nar/gkz841
+    display: Nucleic Acids Res. 2019;47(21):10994-11006.
+  highlight: 1    
+#PMID: 31584084; PMCID: PMC6868369.
+
+- title: Low complexity regions in the proteins of prokaryotes perform important functional roles and are highly conserved. 
+  image:
+  description:
+  authors: Ntountoumi C, Vlastaridis P, Mossialos D, Stathopoulos C, Iliopoulos I, Promponas V, Oliver SG, Amoutzias GD. 
+  link:
+    url: https://doi.org/10.1093/nar/gkz730
+    display: Nucleic Acids Res. 2019;47(19):9998-10009.
+  highlight: 0    
+# PMID: 31504783; PMCID: PMC6821194.
+
+
+- title: An intrinsically disordered proteins community for ELIXIR. 
+  image:
+  description:
+  authors: Davey NE, Babu MM, Blackledge M, Bridge A, Capella-Gutierrez S, Dosztanyi Z, Drysdale R, Edwards RJ, Elofsson A, Felli IC, Gibson TJ, Gutmanas A, Hancock JM, Harrow J, Higgins D, Jeffries CM, Le Mercier P, Mészáros B, Necci M, Notredame C, Orchard S, Ouzounis CA, Pancsa R, Papaleo E, Pierattelli R, Piovesan D, Promponas VJ, Ruch P, Rustici G, Romero P, Sarntivijai S, Saunders G, Schuler B, Sharan M, Shields DC, Sussman JL, Tedds JA, Tompa P, Turewicz M, Vondrasek J, Vranken WF, Wallace BA, Wichapong K, Tosatto SCE. 
+  link:
+    url: https://doi.org/10.12688/f1000research.20136.1
+    display: F1000Res. 2019;8:ELIXIR-1753.
+  highlight: 0    
+# PMID: 31824649; PMCID: PMC6880265.
+
+- title: An updated view of the oligosaccharyltransferase complex in Plasmodium.
+  image:
+  description:
+  authors: Tamana S, Promponas VJ.
+  link:
+    url: https://doi.org/10.1093/glycob/cwz011
+    display: Glycobiology. 2019;29(5):385-396.
+  highlight: 0    
+# PMID: 30835280.
+
 # - title:
 #   image:
 #   description:
@@ -156,79 +217,76 @@
 #   highlight: 1    
 
 
-# 
-# 13: Hatos A, Hajdu-Soltész B, Monzon AM, Palopoli N, Álvarez L, Aykac-Fas B,
-# Bassot C, Benítez GI, Bevilacqua M, Chasapi A, Chemes L, Davey NE, Davidović R,
-# Dunker AK, Elofsson A, Gobeill J, Foutel NSG, Sudha G, Guharoy M, Horvath T,
-# Iglesias V, Kajava AV, Kovacs OP, Lamb J, Lambrughi M, Lazar T, Leclercq JY,
-# Leonardi E, Macedo-Ribeiro S, Macossay-Castillo M, Maiani E, Manso JA, Marino-
-# Buslje C, Martínez-Pérez E, Mészáros B, Mičetić I, Minervini G, Murvai N, Necci
-# M, Ouzounis CA, Pajkos M, Paladin L, Pancsa R, Papaleo E, Parisi G, Pasche E,
-# Barbosa Pereira PJ, Promponas VJ, Pujols J, Quaglia F, Ruch P, Salvatore M,
-# Schad E, Szabo B, Szaniszló T, Tamana S, Tantos A, Veljkovic N, Ventura S,
-# Vranken W, Dosztányi Z, Tompa P, Tosatto SCE, Piovesan D. DisProt: intrinsic
-# protein disorder annotation in 2020. Nucleic Acids Res. 2020 Jan
-# 8;48(D1):D269-D276. doi: 10.1093/nar/gkz975. PMID: 31713636; PMCID: PMC7145575.
-# 
-# 14: Chasapi A, Aivaliotis M, Angelis L, Chanalaris A, Iliopoulos I, Kappas I,
-# Karapiperis C, Kyrpides NC, Pafilis E, Panteris E, Topalis P, Tsiamis G,
-# Vizirianakis IS, Vlassi M, Promponas VJ, Ouzounis CA. Establishment of
-# computational biology in Greece and Cyprus: Past, present, and future. PLoS
-# Comput Biol. 2019 Dec 19;15(12):e1007532. doi: 10.1371/journal.pcbi.1007532.
-# PMID: 31856214; PMCID: PMC6922331.
-# 
-# 15: Tørresen OK, Star B, Mier P, Andrade-Navarro MA, Bateman A, Jarnot P, Gruca
-# A, Grynberg M, Kajava AV, Promponas VJ, Anisimova M, Jakobsen KS, Linke D.
-# Tandem repeats lead to sequence assembly errors and impose multi-level
-# challenges for genome and protein databases. Nucleic Acids Res. 2019 Dec
-# 2;47(21):10994-11006. doi: 10.1093/nar/gkz841. PMID: 31584084; PMCID:
-# PMC6868369.
-# 
-# 16: Ntountoumi C, Vlastaridis P, Mossialos D, Stathopoulos C, Iliopoulos I,
-# Promponas V, Oliver SG, Amoutzias GD. Low complexity regions in the proteins of
-# prokaryotes perform important functional roles and are highly conserved. Nucleic
-# Acids Res. 2019 Nov 4;47(19):9998-10009. doi: 10.1093/nar/gkz730. PMID:
-# 31504783; PMCID: PMC6821194.
-# 
-# 17: Davey NE, Babu MM, Blackledge M, Bridge A, Capella-Gutierrez S, Dosztanyi Z,
-# Drysdale R, Edwards RJ, Elofsson A, Felli IC, Gibson TJ, Gutmanas A, Hancock JM,
-# Harrow J, Higgins D, Jeffries CM, Le Mercier P, Mészáros B, Necci M, Notredame
-# C, Orchard S, Ouzounis CA, Pancsa R, Papaleo E, Pierattelli R, Piovesan D,
-# Promponas VJ, Ruch P, Rustici G, Romero P, Sarntivijai S, Saunders G, Schuler B,
-# Sharan M, Shields DC, Sussman JL, Tedds JA, Tompa P, Turewicz M, Vondrasek J,
-# Vranken WF, Wallace BA, Wichapong K, Tosatto SCE. An intrinsically disordered
-# proteins community for ELIXIR. F1000Res. 2019 Oct 15;8:ELIXIR-1753. doi:
-# 10.12688/f1000research.20136.1. PMID: 31824649; PMCID: PMC6880265.
-# 
-# 18: Tamana S, Promponas VJ. An updated view of the oligosaccharyltransferase
-# complex in Plasmodium. Glycobiology. 2019 May 1;29(5):385-396. doi:
-# 10.1093/glycob/cwz011. PMID: 30835280.
-# 
 # 19: Iliopoulos I, Ananiadou S, Danchin A, Ioannidis JP, Katsikis PD, Ouzounis
 # CA, Promponas VJ. Hypothesis, analysis and synthesis, it's all Greek to me.
 # Elife. 2019 Feb 20;8:e43514. doi: 10.7554/eLife.43514. PMID: 30782313; PMCID:
 # PMC6382348.
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
 # 
 # 20: Samara P, Miriagou V, Zachariadis M, Mavrofrydi O, Promponas VJ, Dedos SG,
 # Papazafiri P, Kalbacher H, Voelter W, Tsitsilonis O. A fragment of the alarmin
 # prothymosin α as a novel biomarker in murine models of bacteria-induced sepsis.
 # Oncotarget. 2017 Jul 25;8(30):48635-48649. doi: 10.18632/oncotarget.18149. PMID:
 # 28611290; PMCID: PMC5564713.
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
 # 
 # 21: Kyriakou D, Stavrou E, Demosthenous P, Angelidou G, San Luis BJ, Boone C,
 # Promponas VJ, Kirmizis A. Functional characterisation of long intergenic non-
 # coding RNAs through genetic interaction profiling in Saccharomyces cerevisiae.
 # BMC Biol. 2016 Dec 7;14(1):106. doi: 10.1186/s12915-016-0325-7. PMID: 27927215;
 # PMCID: PMC5142380.
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
 # 
 # 22: Jacomin AC, Samavedam S, Promponas V, Nezis IP. iLIR database: A web
 # resource for LIR motif-containing proteins in eukaryotes. Autophagy. 2016 Oct
 # 2;12(10):1945-1953. doi: 10.1080/15548627.2016.1207016. Epub 2016 Aug 2. PMID:
 # 27484196; PMCID: PMC5079668.
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
 # 
 # 23: Promponas VJ, Katsani KR, Blencowe BJ, Ouzounis CA. Sequence evidence for
 # common ancestry of eukaryotic endomembrane coatomers. Sci Rep. 2016 Mar
 # 2;6:22311. doi: 10.1038/srep22311. PMID: 26931514; PMCID: PMC4773986.
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
 # 
 # 24: Klionsky DJ, Abdelmohsen K, Abe A, Abedin MJ, Abeliovich H, Acevedo Arozena
 # A, Adachi H, Adams CM, Adams PD, Adeli K, Adhihetty PJ, Adler SG, Agam G,
