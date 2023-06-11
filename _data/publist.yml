@@ -1,7 +1,7 @@
 - title: "A library of sensitive position-specific scoring matrices for high-throughput identification of nuclear pore complex subunits."
   image: paper1.jpg
   description: "Nuclear Pore Complex subunits (nucleoporins or 'NUPs') are often difficult to characterize based on sequence similarity. Here, we describe a robust library of nucleoporin protein sequences and their respective family-specific position-specific scoring matrices which can be used to effectively characterize NUPs across eukaryotic sequence datasets. Resource available at https://doi.org/10.5281/zenodo.7684166."
-  authors: Ioannides AN, Katsani KR, Ouzounis CA, Promponas VJ. 
+  authors: Ioannides AN, Katsani KR, Ouzounis CA, <em>Promponas VJ</em>. 
   link:
     url: https://doi.org/10.1093/nargab/lqad025
     display: NAR Genom Bioinform. 2023;5(1):lqad025.
