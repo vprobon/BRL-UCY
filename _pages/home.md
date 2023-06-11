@@ -124,7 +124,7 @@ We are supported by the University of Cyprus. External funding resources through
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_LIRcentral-FundedBy.png" style="width: 600px">
 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UCY_en.jpg" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_UCY_en.jpg" style="width: 600px">
 <!--
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NWO.jpg" style="width: 120px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_ERC.jpg" style="width: 110px">
