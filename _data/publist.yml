@@ -68,32 +68,32 @@
 
 
 - title: Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition) <sup>1</sup>
-   image:
-   description:
-   authors: Klionsky DJ, Abdel-Aziz AK, Abdelfatah S, Abdellatif M, [..], Promponas VJ, [..], Stallings CL, Tong CK. 
+  image: lalal.jpg
+  description: ""
+  authors: Klionsky DJ, Abdel-Aziz AK, Abdelfatah S, Abdellatif M, [..], Promponas VJ, [..], Stallings CL, Tong CK. 
   link:
     url: https://doi.org/10.1080/15548627.2020.1797280
     display: Autophagy. 2021;17(1):1-382.
-   highlight: 0
+  highlight: 0
 # PMID: 33634751; PMCID: PMC7996087.
 
 
 - title: 'Evolutionary Study of Disorder in Protein Sequences.'
-   image:
-   description: 
-   authors: Kastano K, Erdős G, Mier P, Alanis-Lobato G, Promponas VJ, Dosztányi Z,  Andrade-Navarro MA. 
-   link:
+  image: lalal.jpg
+  description: ""
+  authors: Kastano K, Erdős G, Mier P, Alanis-Lobato G, Promponas VJ, Dosztányi Z,  Andrade-Navarro MA. 
+  link:
     url: https://doi.org/10.3390/biom10101413
     display: Biomolecules. 2020;10(10):1413.
-   highlight: 0
+  highlight: 0
 # PMID: 33036302;
 # PMCID: PMC7650552.
 
 
 
 - title: 'Recognition of LD motifs by the focal adhesion targeting domains of focal adhesion kinase and proline-rich tyrosine kinase 2-beta: Insights from molecular dynamics simulations.'
-  image:
-  description:
+  image: lalal.jpg
+  description: ""
   authors: Michael E, Polydorides S, Promponas VJ, Skourides P, Archontis G. 
   link:
     url: https://doi.org/10.1002/prot.25992
@@ -105,9 +105,9 @@
 
 
 - title: 'PlaToLoCo: the first web meta-server for visualization and annotation of low complexity regions in proteins.'
-  image:
-  description:
-   authors: Jarnot P, Ziemska-Legiecka J, Dobson L, Merski M, Mier P, Andrade-Navarro MA, Hancock JM, Dosztányi Z, Paladin L, Necci M, Piovesan D, Tosatto SCE, Promponas VJ, Grynberg M, Gruca A.
+  image: lalal.jpg
+  description: ""
+  authors: Jarnot P, Ziemska-Legiecka J, Dobson L, Merski M, Mier P, Andrade-Navarro MA, Hancock JM, Dosztányi Z, Paladin L, Necci M, Piovesan D, Tosatto SCE, Promponas VJ, Grynberg M, Gruca A.
   link:
     url: https://doi.org/10.1093/nar/gkaa339
     display: Nucleic Acids Res. 2020;48(W1):W77-W84.
@@ -117,8 +117,8 @@
 
 
 - title: Pseudomonas aeruginosa core metabolism exerts a widespread growth-independent control on virulence.
-  image:
-  description:
+  image: lalal.jpg
+  description: ""
   authors: Panayidou S, Georgiades K, Christofi T, Tamana S, Promponas VJ, Apidianakis Y.
   link:
     url: https://doi.org/10.1038/s41598-020-66194-4
@@ -127,8 +127,8 @@
 #PMID: 32528034; PMCID: PMC7289854.
  
 - title: The bioinformatics wealth of nations.
-  image:
-  description:
+  image: lalal.jpg
+  description: ""
   authors: Chasapi A, Promponas VJ, Ouzounis CA.
   link:
     url: https://doi.org/10.1093/bioinformatics/btaa132
@@ -137,8 +137,8 @@
 # PMID: 32129821; PMCID: PMC7203752.
 
 - title: Disentangling the complexity of low complexity proteins.
-  image:
-  description:
+  image: lalal.jpg
+  description: ""
   authors: Mier P, Paladin L, Tamana S, Petrosian S, Hajdu-Soltész B, Urbanek A, Gruca A, Plewczynski D, Grynberg M, Bernadó P, Gáspári Z, Ouzounis CA, Promponas VJ, Kajava AV, Hancock JM, Tosatto SCE, Dosztanyi Z, Andrade-Navarro MA.
   link:
     url: https://doi.org/10.1093/bib/bbz007
