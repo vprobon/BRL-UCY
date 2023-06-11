@@ -22,8 +22,7 @@
 #   link:
 #     url: https://doi.org/
 #     display:
-#   highlight: 1
-    
+#   highlight: 1    
 
 - title: "Functional Tuning of Intrinsically Disordered Regions in Human Proteins by Composition Bias."
   image: biomolecules-12-01486-ag-550.jpg
@@ -68,7 +67,7 @@
 # PMID: 33692771; PMCID: PMC7937616.
 
 
- - title: Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition) <sup>1</sup>
+- title: Guidelines for the use and interpretation of assays for monitoring autophagy (4th edition) <sup>1</sup>
    image:
    description:
    authors: Klionsky DJ, Abdel-Aziz AK, Abdelfatah S, Abdellatif M, [..], Promponas VJ, [..], Stallings CL, Tong CK. 
@@ -79,14 +78,14 @@
 # PMID: 33634751; PMCID: PMC7996087.
 
 
- - title: 'Evolutionary Study of Disorder in Protein Sequences.'
+- title: 'Evolutionary Study of Disorder in Protein Sequences.'
    image:
    description: 
    authors: Kastano K, Erdős G, Mier P, Alanis-Lobato G, Promponas VJ, Dosztányi Z,  Andrade-Navarro MA. 
    link:
     url: https://doi.org/10.3390/biom10101413
     display: Biomolecules. 2020;10(10):1413.
-   highlight: 1
+   highlight: 0
 # PMID: 33036302;
 # PMCID: PMC7650552.
 
@@ -99,11 +98,53 @@
   link:
     url: https://doi.org/10.1002/prot.25992
     display: Proteins. 2020.
-  highlight: 1
+  highlight: 0
 
 # PMID: 32776636.
 
 
+
+- title: 'PlaToLoCo: the first web meta-server for visualization and annotation of low complexity regions in proteins.'
+  image:
+  description:
+   authors: Jarnot P, Ziemska-Legiecka J, Dobson L, Merski M, Mier P, Andrade-Navarro MA, Hancock JM, Dosztányi Z, Paladin L, Necci M, Piovesan D, Tosatto SCE, Promponas VJ, Grynberg M, Gruca A.
+  link:
+    url: https://doi.org/10.1093/nar/gkaa339
+    display: Nucleic Acids Res. 2020;48(W1):W77-W84.
+  highlight: 0
+# PMID: 32421769; PMCID: PMC7319588.
+
+
+
+- title: Pseudomonas aeruginosa core metabolism exerts a widespread growth-independent control on virulence.
+  image:
+  description:
+  authors: Panayidou S, Georgiades K, Christofi T, Tamana S, Promponas VJ, Apidianakis Y.
+  link:
+    url: https://doi.org/10.1038/s41598-020-66194-4
+    display: Sci Rep. 2020;10(1):9505. 
+  highlight: 0    
+#PMID: 32528034; PMCID: PMC7289854.
+ 
+- title: The bioinformatics wealth of nations.
+  image:
+  description:
+  authors: Chasapi A, Promponas VJ, Ouzounis CA.
+  link:
+    url: https://doi.org/10.1093/bioinformatics/btaa132
+    display: Bioinformatics. 2020;36(9):2963-2965.
+  highlight: 1    
+# PMID: 32129821; PMCID: PMC7203752.
+
+- title: Disentangling the complexity of low complexity proteins.
+  image:
+  description:
+  authors: Mier P, Paladin L, Tamana S, Petrosian S, Hajdu-Soltész B, Urbanek A, Gruca A, Plewczynski D, Grynberg M, Bernadó P, Gáspári Z, Ouzounis CA, Promponas VJ, Kajava AV, Hancock JM, Tosatto SCE, Dosztanyi Z, Andrade-Navarro MA.
+  link:
+    url: https://doi.org/10.1093/bib/bbz007
+    display: Brief Bioinform. 2020;21(2):458-472.
+  highlight: 1    
+# PMID: 30698641; PMCID: PMC7299295.
 
 # - title:
 #   image:
@@ -112,31 +153,9 @@
 #   link:
 #     url: https://doi.org/
 #     display:
-#   highlight: 1
+#   highlight: 1    
 
 
-# 9: Jarnot P, Ziemska-Legiecka J, Dobson L, Merski M, Mier P, Andrade-Navarro MA,
-# Hancock JM, Dosztányi Z, Paladin L, Necci M, Piovesan D, Tosatto SCE, Promponas
-# VJ, Grynberg M, Gruca A. PlaToLoCo: the first web meta-server for visualization
-# and annotation of low complexity regions in proteins. Nucleic Acids Res. 2020
-# Jul 2;48(W1):W77-W84. doi: 10.1093/nar/gkaa339. PMID: 32421769; PMCID:
-# PMC7319588.
-# 
-# 10: Panayidou S, Georgiades K, Christofi T, Tamana S, Promponas VJ, Apidianakis
-# Y. Pseudomonas aeruginosa core metabolism exerts a widespread growth-independent
-# control on virulence. Sci Rep. 2020 Jun 11;10(1):9505. doi:
-# 10.1038/s41598-020-66194-4. PMID: 32528034; PMCID: PMC7289854.
-# 
-# 11: Chasapi A, Promponas VJ, Ouzounis CA. The bioinformatics wealth of nations.
-# Bioinformatics. 2020 May 1;36(9):2963-2965. doi: 10.1093/bioinformatics/btaa132.
-# PMID: 32129821; PMCID: PMC7203752.
-# 
-# 12: Mier P, Paladin L, Tamana S, Petrosian S, Hajdu-Soltész B, Urbanek A, Gruca
-# A, Plewczynski D, Grynberg M, Bernadó P, Gáspári Z, Ouzounis CA, Promponas VJ,
-# Kajava AV, Hancock JM, Tosatto SCE, Dosztanyi Z, Andrade-Navarro MA.
-# Disentangling the complexity of low complexity proteins. Brief Bioinform. 2020
-# Mar 23;21(2):458-472. doi: 10.1093/bib/bbz007. PMID: 30698641; PMCID:
-# PMC7299295.
 # 
 # 13: Hatos A, Hajdu-Soltész B, Monzon AM, Palopoli N, Álvarez L, Aykac-Fas B,
 # Bassot C, Benítez GI, Bevilacqua M, Chasapi A, Chemes L, Davey NE, Davidović R,
