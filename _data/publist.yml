@@ -529,55 +529,46 @@
   highlight: 0   
 # PMID: 11120681.
  
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
-# 50: Tsoka S, Promponas V, Ouzounis CA. Reproducibility in genome sequence
-# annotation: the Plasmodium falciparum chromosome 2 case. FEBS Lett. 1999 May
-# 28;451(3):354-5. doi: 10.1016/s0014-5793(99)00599-2. PMID: 10371220.
-# 
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
-# 51: Pasquier C, Promponas VJ, Palaios GA, Hamodrakas JS, Hamodrakas SJ. A novel
-# method for predicting transmembrane segments in proteins based on a statistical
-# analysis of the SwissProt database: the PRED-TMR algorithm. Protein Eng. 1999
-# May;12(5):381-5. doi: 10.1093/protein/12.5.381. PMID: 10360978.
-# 
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
-# 52: Promponas VJ, Palaios GA, Pasquier CM, Hamodrakas JS, Hamodrakas SJ.
-# CoPreTHi: a Web tool which combines transmembrane protein segment prediction
-# methods. In Silico Biol. 1999;1(3):159-62. PMID: 11471236.
-# 
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
-# 53: Pasquier CM, Promponas VI VI, Varvayannis NJ, Hamodrakas SJ. A web server to
-# locate periodicities in a sequence. Bioinformatics. 1998;14(8):749-50. doi:
-# 10.1093/oxfordjournals.bioinformatics.a011054. PMID: 9789101.
-# 
+- title: 'Reproducibility in genome sequence annotation: the Plasmodium falciparum chromosome 2 case.'
+  image:
+  description:
+  authors: Tsoka S, Promponas V, Ouzounis CA.
+  link:
+    url: https://doi.org/10.1016/s0014-5793(99)00599-2
+    display: FEBS Lett. 1999;451(3):354-5.
+  highlight: 0 
+# PMID: 10371220.
+
+- title: 'A novel method for predicting transmembrane segments in proteins based on a statistical analysis of the SwissProt database: the PRED-TMR algorithm.'
+  image:
+  description:
+  authors: Pasquier C, Promponas VJ, Palaios GA, Hamodrakas JS, Hamodrakas SJ.
+  link:
+    url: https://doi.org/10.1093/protein/12.5.381
+    display: Protein Eng. 1999;12(5):381-5.
+  highlight: 0
+# PMID: 10360978.
+
+- title: 'CoPreTHi: a Web tool which combines transmembrane protein segment prediction methods.'
+  image:
+  description:
+  authors: Promponas VJ, Palaios GA, Pasquier CM, Hamodrakas JS, Hamodrakas SJ.
+  link:
+    url: https://doi.org/
+    display:  In Silico Biol. 1999;1(3):159-62.
+  highlight: 0    
+# PMID: 11471236.
+
+- title: A web server to locate periodicities in a sequence.
+  image:
+  description:
+  authors: Pasquier CM, Promponas VI, Varvayannis NJ, Hamodrakas SJ.
+  link:
+    url: https://doi.org/10.1093/oxfordjournals.bioinformatics.a011054
+    display: Bioinformatics. 1998;14(8):749-50.
+  highlight: 0
+# PMID: 9789101.
+
 
 # 
 # 
