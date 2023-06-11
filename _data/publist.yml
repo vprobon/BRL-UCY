@@ -207,87 +207,70 @@
   highlight: 0    
 # PMID: 30835280.
 
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
-
-
-# 19: Iliopoulos I, Ananiadou S, Danchin A, Ioannidis JP, Katsikis PD, Ouzounis
-# CA, Promponas VJ. Hypothesis, analysis and synthesis, it's all Greek to me.
-# Elife. 2019 Feb 20;8:e43514. doi: 10.7554/eLife.43514. PMID: 30782313; PMCID:
+- title: Hypothesis, analysis and synthesis, it's all Greek to me.
+  image:
+  description:
+  authors: Iliopoulos I, Ananiadou S, Danchin A, Ioannidis JP, Katsikis PD, Ouzounis CA, Promponas VJ. 
+  link:
+    url: https://doi.org/10.7554/eLife.43514
+    display: Elife. 2019;8:e43514.
+  highlight: 0
+# PMID: 30782313; PMCID:
 # PMC6382348.
 
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
-# 
-# 20: Samara P, Miriagou V, Zachariadis M, Mavrofrydi O, Promponas VJ, Dedos SG,
-# Papazafiri P, Kalbacher H, Voelter W, Tsitsilonis O. A fragment of the alarmin
-# prothymosin α as a novel biomarker in murine models of bacteria-induced sepsis.
-# Oncotarget. 2017 Jul 25;8(30):48635-48649. doi: 10.18632/oncotarget.18149. PMID:
-# 28611290; PMCID: PMC5564713.
+- title: A fragment of the alarmin prothymosin α as a novel biomarker in murine models of bacteria-induced sepsis.
+  image:
+  description:
+  authors: Samara P, Miriagou V, Zachariadis M, Mavrofrydi O, Promponas VJ, Dedos SG, Papazafiri P, Kalbacher H, Voelter W, Tsitsilonis O.
+  link:
+    url: https://doi.org/10.18632/oncotarget.18149
+    display: Oncotarget. 2017 Jul 25;8(30):48635-48649.
+  highlight: 0    
+#  PMID: 28611290; PMCID: PMC5564713.
 
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
-# 
-# 21: Kyriakou D, Stavrou E, Demosthenous P, Angelidou G, San Luis BJ, Boone C,
-# Promponas VJ, Kirmizis A. Functional characterisation of long intergenic non-
-# coding RNAs through genetic interaction profiling in Saccharomyces cerevisiae.
-# BMC Biol. 2016 Dec 7;14(1):106. doi: 10.1186/s12915-016-0325-7. PMID: 27927215;
+- title: Functional characterisation of long intergenic non-coding RNAs through genetic interaction profiling in Saccharomyces cerevisiae.
+  image:
+  description:
+  authors: Kyriakou D, Stavrou E, Demosthenous P, Angelidou G, San Luis BJ, Boone C, Promponas VJ, Kirmizis A. 
+  link:
+    url: https://doi.org/10.1186/s12915-016-0325-7
+    display: BMC Biol. 2016;14(1):106.
+  highlight: 0    
+# PMID: 27927215;
 # PMCID: PMC5142380.
 
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
-# 
-# 22: Jacomin AC, Samavedam S, Promponas V, Nezis IP. iLIR database: A web
-# resource for LIR motif-containing proteins in eukaryotes. Autophagy. 2016 Oct
-# 2;12(10):1945-1953. doi: 10.1080/15548627.2016.1207016. Epub 2016 Aug 2. PMID:
-# 27484196; PMCID: PMC5079668.
+- title: 'iLIR database: A web resource for LIR motif-containing proteins in eukaryotes.'
+  image:
+  description:
+  authors: Jacomin AC, Samavedam S, Promponas V, Nezis IP. 
+  link:
+    url: https://doi.org/10.1080/15548627.2016.1207016
+    display: Autophagy. 2016;12(10):1945-1953.
+  highlight: 1    
+# PMID: 27484196; PMCID: PMC5079668.
 
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
-# 
-# 23: Promponas VJ, Katsani KR, Blencowe BJ, Ouzounis CA. Sequence evidence for
-# common ancestry of eukaryotic endomembrane coatomers. Sci Rep. 2016 Mar
-# 2;6:22311. doi: 10.1038/srep22311. PMID: 26931514; PMCID: PMC4773986.
+- title: Sequence evidence for common ancestry of eukaryotic endomembrane coatomers.
+  image:
+  description:
+  authors: Promponas VJ, Katsani KR, Blencowe BJ, Ouzounis CA.
+  link:
+    url: https://doi.org/10.1038/srep22311
+    display: Sci Rep. 2016;6:22311.
+  highlight: 1    
+#PMID: 26931514; PMCID: PMC4773986.
 
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
-# 
+- title: Guidelines for the use and interpretation of assays for monitoring autophagy (3rd edition).
+  image:
+  description:
+  authors: Klionsky DJ, Abdelmohsen K, Abe A, [..], Promponas VJ, [..], Zoladek T, Zong WX, Zorzano A, Zughaier SM.
+  link:
+    url: https://doi.org/10.1080/15548627.2015.1100356
+    display: Autophagy. 2016;12(1):1-222.
+  highlight: 1  
+  news: Erratum in:  Autophagy. 2016;12(2):443. 
+# PMID: 26799652; PMCID: PMC4835977.  
+ 
+
 # 24: Klionsky DJ, Abdelmohsen K, Abe A, Abedin MJ, Abeliovich H, Acevedo Arozena
 # A, Adachi H, Adams CM, Adams PD, Adeli K, Adhihetty PJ, Adler SG, Agam G,
 # Agarwal R, Aghi MK, Agnello M, Agostinis P, Aguilar PV, Aguirre-Ghiso J, Airoldi
@@ -627,22 +610,50 @@
 # Zhang Y, Zhao M, Zhao WL, Zhao X, Zhao YG, Zhao Y, Zhao Y, Zhao YX, Zhao Z, Zhao
 # ZJ, Zheng D, Zheng XL, Zheng X, Zhivotovsky B, Zhong Q, Zhou GZ, Zhou G, Zhou H,
 # Zhou SF, Zhou XJ, Zhu H, Zhu H, Zhu WG, Zhu W, Zhu XF, Zhu Y, Zhuang SM, Zhuang
-# X, Ziparo E, Zois CE, Zoladek T, Zong WX, Zorzano A, Zughaier SM. Guidelines for
-# the use and interpretation of assays for monitoring autophagy (3rd edition).
-# Autophagy. 2016;12(1):1-222. doi: 10.1080/15548627.2015.1100356. Erratum in:
-# Autophagy. 2016;12(2):443. Selliez, Iban [corrected to Seiliez, Iban]. PMID:
-# 26799652; PMCID: PMC4835977.
+# X, Ziparo E, Zois CE, 
 # 
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
+
+
 # 25: Promponas VJ, Iliopoulos I, Ouzounis CA. Annotation inconsistencies beyond
 # sequence similarity-based function prediction - phylogeny and genome structure.
 # Stand Genomic Sci. 2015 Nov 19;10:108. doi: 10.1186/s40793-015-0101-2. PMID:
 # 26594309; PMCID: PMC4653902.
-# 
+
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
+
+ 
 # 26: Kirmitzoglou I, Promponas VJ. LCR-eXXXplorer: a web platform to search,
 # visualize and share data for low complexity regions in protein sequences.
 # Bioinformatics. 2015 Jul 1;31(13):2208-10. doi: 10.1093/bioinformatics/btv115.
 # Epub 2015 Feb 20. PMID: 25712690; PMCID: PMC4481844.
 # 
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
+
 # 27: Papanikolaou N, Pavlopoulos GA, Pafilis E, Theodosiou T, Schneider R,
 # Satagopam VP, Ouzounis CA, Eliopoulos AG, Promponas VJ, Iliopoulos I.
 # BioTextQuest+: a knowledge integration platform for literature mining and
@@ -650,12 +661,33 @@
 # 10.1093/bioinformatics/btv029. Epub 2015 Feb 11. Erratum for: Bioinformatics.
 # 2014 Nov 15;30(22):3249-56. PMID: 25673338.
 # 
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
+
+
 # 28: Kannas CC, Kalvari I, Lambrinidis G, Neophytou CM, Savva CG, Kirmitzoglou I,
 # Antoniou Z, Achilleos KG, Scherf D, Pitta CA, Nicolaou CA, Mikros E, Promponas
 # VJ, Gerhauser C, Mehta RG, Constantinou AI, Pattichis CS. LiSIs: An Online
 # Scientific Workflow System for Virtual Screening. Comb Chem High Throughput
 # Screen. 2015;18(3):281-95. doi: 10.2174/1386207318666150305123341. PMID:
 # 25747448.
+
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
 # 
 # 29: Papanikolaou N, Pavlopoulos GA, Pafilis E, Theodosiou T, Schneider R,
 # Satagopam VP, Ouzounis CA, Eliopoulos AG, Promponas VJ, Iliopoulos I.
@@ -663,21 +695,61 @@
 # concept discovery. Bioinformatics. 2014 Nov 15;30(22):3249-56. doi:
 # 10.1093/bioinformatics/btu524. Epub 2014 Aug 6. Erratum in: Bioinformatics. 2015
 # Mar 15;31(6):979. PMID: 25100685.
+
+
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
 # 
 # 30: Tsiknakis M, Promponas VJ, Graf N, Wang MD, Wong ST, Bourbakis N, Pattichis
 # CS. Guest editorial: Computational solutions to large-scale data management and
 # analysis in translational and personalized medicine. IEEE J Biomed Health
 # Inform. 2014 May;18(3):720-1. doi: 10.1109/jbhi.2014.2315513. PMID: 24921072.
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
+
 # 
 # 31: Kalvari I, Tsompanis S, Mulakkal NC, Osgood R, Johansen T, Nezis IP,
 # Promponas VJ. iLIR: A web resource for prediction of Atg8-family interacting
 # proteins. Autophagy. 2014 May;10(5):913-25. doi: 10.4161/auto.28260. Epub 2014
 # Feb 26. PMID: 24589857; PMCID: PMC5119064.
+
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
 # 
 # 32: Promponas VJ, Ouzounis CA, Iliopoulos I. Experimental evidence validating
 # the computational inference of functional associations from gene fusion events:
 # a critical survey. Brief Bioinform. 2014 May;15(3):443-54. doi:
 # 10.1093/bib/bbs072. Epub 2012 Dec 5. PMID: 23220349; PMCID: PMC4017328.
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
 # 
 # 33: Katsani KR, Irimia M, Karapiperis C, Scouras ZG, Blencowe BJ, Promponas VJ,
 # Ouzounis CA. Functional genomics evidence unearths new moonlighting roles of
