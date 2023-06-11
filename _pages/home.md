@@ -34,29 +34,29 @@ We are a dynamic research group at the [Leiden Institute of Physics](http://www.
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf1_ELIXIR-CY.jpeg" alt="ELIXIR-CY talk at HBIO Thessaloniki" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf1_ELIXIR-CY.jpeg" alt="ELIXIR-CY talk at HBIO Thessaloniki" width="500" height="600" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf2_ELIXIR-CY.jpeg" alt="ELIXIR-CY talk at HBIO Thessaloniki" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf2_ELIXIR-CY.jpeg" alt="ELIXIR-CY talk at HBIO Thessaloniki" width="500" height="600" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SpeedyMicrobes.jpeg" alt="SpeedyMicrobes Talk at βιοςSBSCy conference at UCY" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SpeedyMicrobes.jpeg" alt="SpeedyMicrobes Talk at βιοςSBSCy conference at UCY" width="500" height="600" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NUPs_HBIObridge.jpeg" alt="NUP-PSSM-LIB Talk at βιοςSBSCy conference at UCY" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NUPs_HBIObridge.jpeg" alt="NUP-PSSM-LIB Talk at βιοςSBSCy conference at UCY" width="500" height="600" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf3_ELIXIR-CY.jpeg" alt="ELIXIR-CY talk at HBIO Thessaloniki" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/conf3_ELIXIR-CY.jpeg" alt="ELIXIR-CY talk at HBIO Thessaloniki" width="500" height="600" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Nireas_talk.jpeg" alt="Talk at NIREAS center" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Nireas_talk.jpeg" alt="Talk at NIREAS center" width="500" height="600" />
         </div>
         
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/E7_HBIObridge.jpeg" alt="Marios Eftychiou, E7-POU5F1, HBIObridge" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/E7_HBIObridge.jpeg" alt="Marios Eftychiou, E7-POU5F1, HBIObridge"  width="500" height="600"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LIRcentral_HBIObridge.jpeg" alt="Agathangelos Chatzichristofi, LIRcentral, HBIObridge" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/LIRcentral_HBIObridge.jpeg" alt="Agathangelos Chatzichristofi, LIRcentral, HBIObridge" width="500" height="600" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/Lab_getting_wet.jpeg" alt="BRL getting wet, bacterial cultures" />
