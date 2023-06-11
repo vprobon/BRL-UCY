@@ -1,6 +1,6 @@
 - title: "A library of sensitive position-specific scoring matrices for high-throughput identification of nuclear pore complex subunits."
   image: paper1.jpg
-  description: "..."
+  description: "The nuclear pore complex exhibits different manifestations across eukaryotes, with certain components being restricted to specific clades. Several studies have been conducted to delineate the nuclear pore complex composition in various model organisms. Due to its pivotal role in cell viability, traditional lab experiments, such as gene knockdowns, can prove inconclusive and need to be complemented by a high-quality computational process. Here, using an extensive data collection, we create a robust library of nucleoporin protein sequences and their respective family-specific position-specific scoring matrices. By extensively validating each profile in different settings, we propose that the created profiles can be used to detect nucleoporins in proteomes with high sensitivity and specificity compared to existing methods. This library of profiles and the underlying sequence data can be used for the detection of nucleoporins in target proteomes."
   authors: Ioannides AN, Katsani KR, Ouzounis CA, Promponas VJ. 
   link:
     url: https://doi.org/10.1093/nargab/lqad025
@@ -21,18 +21,24 @@
 #   link:
 #     url: https://doi.org/
 #     display:
+#   highlight: 1
     
 
 - title: "Functional Tuning of Intrinsically Disordered Regions in Human Proteins by Composition Bias."
   image: paper1.jpg
-  description: "..."
+  description: "Intrinsically disordered regions (IDRs) in protein sequences are flexible, have low structural constraints and as a result have faster rates of evolution. This lack of evolutionary conservation greatly limits the use of sequence homology for the classification and functional assessment of IDRs, as opposed to globular domains. The study of IDRs requires other properties for their classification and functional prediction. While composition bias is not a necessary property of IDRs, compositionally biased regions (CBRs) have been noted as frequent part of IDRs. We hypothesized that to characterize IDRs, it could be helpful to study their overlap with particular types of CBRs. Here, we evaluate this overlap in the human proteome. A total of 2/3 of residues in IDRs overlap CBRs. Considering CBRs enriched in one type of amino acid, we can distinguish CBRs that tend to be fully included within long IDRs (R, H, N, D, P, G), from those that partially overlap shorter IDRs (S, E, K, T), and others that tend to overlap IDR terminals (Q, A). CBRs overlap more often IDRs in nuclear proteins and in proteins involved in liquid-liquid phase separation (LLPS). Study of protein interaction networks reveals the enrichment of CBRs in IDRs by tandem repetition of short linear motifs (rich in S or P), and the existence of E-rich polar regions that could support specific protein interactions with non-specific interactions. Our results open ways to pin down the function of IDRs from their partial compositional biases."
   authors: Kastano K, Mier P, Dosztányi Z, Promponas VJ, Andrade-Navarro MA.
   link:
     url: https://doi.org/10.3390/biom12101486
     display: Biomolecules. 2022;12(10):1486.
+  highlight: 1
   #PMID: 36291695; PMCID: PMC9599065.
 
-3: Quaglia F, Mészáros B, Salladini E, Hatos A, Pancsa R, Chemes LB, Pajkos M,
+
+- title: "DisProt in 2022: improved quality and accessibility of protein intrinsic disorder annotation."
+  image: paper1.jpg
+  description: 
+  authors: Quaglia F, Mészáros B, Salladini E, Hatos A, Pancsa R, Chemes LB, Pajkos M,
 Lazar T, Peña-Díaz S, Santos J, Ács V, Farahi N, Fichó E, Aspromonte MC, Bassot
 C, Chasapi A, Davey NE, Davidović R, Dobson L, Elofsson A, Erdős G, Gaudet P,
 Giglio M, Glavina J, Iserte J, Iglesias V, Kálmán Z, Lambrughi M, Leonardi E,
@@ -40,10 +46,12 @@ Longhi S, Macedo-Ribeiro S, Maiani E, Marchetti J, Marino-Buslje C, Mészáros A
 Monzon AM, Minervini G, Nadendla S, Nilsson JF, Novotný M, Ouzounis CA, Palopoli
 N, Papaleo E, Pereira PJB, Pozzati G, Promponas VJ, Pujols J, Rocha ACS, Salas
 M, Sawicki LR, Schad E, Shenoy A, Szaniszló T, Tsirigos KD, Veljkovic N, Parisi
-G, Ventura S, Dosztányi Z, Tompa P, Tosatto SCE, Piovesan D. DisProt in 2022:
-improved quality and accessibility of protein intrinsic disorder annotation.
-Nucleic Acids Res. 2022 Jan 7;50(D1):D480-D487. doi: 10.1093/nar/gkab1082. PMID:
-34850135; PMCID: PMC8728214.
+G, Ventura S, Dosztányi Z, Tompa P, Tosatto SCE, Piovesan D.
+  link:
+    url: https://doi.org/10.1093/nar/gkab1082
+    display: Nucleic Acids Res. 2022 Jan 7;50(D1):D480-D487
+  highlight: 1
+# PMID: 34850135; PMCID: PMC8728214.
 
 4: Necci M, Piovesan D; CAID Predictors; DisProt Curators; Tosatto SCE. Critical
 assessment of protein intrinsic disorder prediction. Nat Methods. 2021
