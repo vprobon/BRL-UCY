@@ -13,6 +13,8 @@ description: > # this means to ignore newlines until "baseurl:"
   This is the Bioinformatics Research Laboratory @UCY web site.
 baseurl: "https://vprobon.github.io/BRL-UCY"
 url: ""
+twitter_username: bioiforeslab
+github_username: BRL-UCY
 
 include:
   - .htaccess
