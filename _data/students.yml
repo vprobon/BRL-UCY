@@ -15,6 +15,16 @@
   number_educ: 0
   education1:
 
+- name: Dimitris Kalanidis
+  photo: rock.jpg
+  info: Undergraduate Student, Selective autophagy team
+  email: dimitris_at_aemail_dot_com
+  number_educ: 0
+  education1:
+
+
+
+
 #- name: 
 #  photo: rock.jpg
 #  info: Master student
