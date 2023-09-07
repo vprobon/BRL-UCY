@@ -10,6 +10,9 @@ permalink: /teaching/
 
 ## Undergraduate courses
 
+[BIO230 - Introduction to Computational Biology](https://vprobon.github.io/BIO230/)
+
+
 ## MSc and PhD Courses
 
 <!-- 
