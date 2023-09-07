@@ -6,6 +6,9 @@ sitemap: false
 permalink: /research/
 ---
 
+
+# Coming up, stay tuned!
+<!--
 # Research
 
 Our overarching goal is to explore and understand new quantum states of electronic matter on the atomic scale. To do so, we use and develop novel spectroscopic-imaging scanning tunneling microscopy (SI-STM) tools to visualize the relevant quantum mechanical degrees of freedom.
@@ -44,3 +47,5 @@ We have proposed that artificial super-periodicities can lead to improved superc
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SciPost.png){: style="width: 70%; float: center; margin: 0px"}
 
 ### ... and more.
+
+-->
