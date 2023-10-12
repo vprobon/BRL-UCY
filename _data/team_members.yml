@@ -2,6 +2,7 @@
   photo: vprobon51.jpg
   info: Associate professor, founded BRL@UCY in 2005
   info2: BRL head
+  info3: LIRcentral Team member
   email: promponas.vasileios@ucy.ac.cy
   number_educ: 2
   education1: PhD in Biological Sciences, <a href="http://en.biol.uoa.gr/">Department of Biology</a>, <a href="https://en.uoa.gr/">National and Kapodistrian University of Athens</a>
@@ -126,8 +127,8 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
+  info: See <a href="https://vprobon.github.io/BRL-UCY/vacancies">openings</a> for more info
+  email: vasilis.promponas@gmail.com
   number_educ: 0
   education1:
   education2:
