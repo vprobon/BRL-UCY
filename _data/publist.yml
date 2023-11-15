@@ -52,11 +52,19 @@
   authors: Quaglia F, Mészáros B, Salladini E, Hatos A, Pancsa R, Chemes LB, Pajkos M, Lazar T, Peña-Díaz S, Santos J, Ács V, Farahi N, Fichó E, Aspromonte MC, Bassot C, Chasapi A, Davey NE, Davidović R, Dobson L, Elofsson A, Erdős G, Gaudet P, Giglio M, Glavina J, Iserte J, Iglesias V, Kálmán Z, Lambrughi M, Leonardi E, Longhi S, Macedo-Ribeiro S, Maiani E, Marchetti J, Marino-Buslje C, Mészáros A, Monzon AM, Minervini G, Nadendla S, Nilsson JF, Novotný M, Ouzounis CA, Palopoli N, Papaleo E, Pereira PJB, Pozzati G, Promponas VJ, Pujols J, Rocha ACS, Salas M, Sawicki LR, Schad E, Shenoy A, Szaniszló T, Tsirigos KD, Veljkovic N, Parisi G, Ventura S, Dosztányi Z, Tompa P, Tosatto SCE, Piovesan D.
   link:
     url: https://doi.org/10.1093/nar/gkab1082
-    display: Nucleic Acids Res. 2022 Jan 7;50(D1):D480-D487
+    display: Nucleic Acids Res. 2022;50(D1):D480-D487
   highlight: 0
 # PMID: 34850135; PMCID: PMC8728214.
 
 
+- title: "Solving the Protein Secondary Structure Prediction Problem With the Hessian Free Optimization Algorithm."
+  image: paper1.jpg
+  description: 
+  authors:  Charalampous K, Agathocleous M, Christodoulou C, Promponas VJ.
+  link:
+    url: https://doi.org/10.1109/ACCESS.2022.3156888
+    display:  IEEE Access. 2022; 10:27759-27770.
+  
 - title: "Critical assessment of protein intrinsic disorder prediction."
   image: paper1.jpg
   description:
