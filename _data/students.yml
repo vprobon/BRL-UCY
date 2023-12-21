@@ -22,6 +22,26 @@
   number_educ: 0
   education1:
 
+- name: Maria Konstantinou
+  photo: rock.jpg
+  info: Undergraduate Student (BME minor), Nuclear Pore Complex team
+  email: dimitris_at_aemail_dot_com
+  number_educ: 0
+  education1:
+  
+- name: Polymnia Delivogiatzi
+  photo: rock.jpg
+  info: Undergraduate Student, Selective autophagy team
+  email: dimitris_at_aemail_dot_com
+  number_educ: 0
+  education1:
+
+- name: Victoria Patouna
+  photo: rock.jpg
+  info: Undergraduate Student, [TBD]
+  email: dimitris_at_aemail_dot_com
+  number_educ: 0
+  education1:
 
 
 
