@@ -14,7 +14,8 @@
   link:
     url: https://doi.org/10.1093/nar/gkad928
     display: Nucleic Acids Res. 2024;52(D1):D434-D441.
-  highlight: 1    
+  highlight: 1  
+  news1: Resource available at <a href="https://disprot.org">https://disprot.org</a>.   
 
 - title: 'A choice, not an obligation : Releasing scientific software as open source should be the responsibility of the authors.'
   image: lalal.jpg
