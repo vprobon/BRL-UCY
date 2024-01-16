@@ -18,7 +18,7 @@
 
 - title: 'A choice, not an obligation : Releasing scientific software as open source should be the responsibility of the authors.'
   image: lalal.jpg
-  description: "MMMM lalalalal"
+  description: ""
   authors: Kappas I, <em>Promponas VJ</em>, Ouzounis CA.
   link:
     url: https://doi.org/10.1038/s44319-023-00039-9
@@ -28,12 +28,13 @@
 
 - title: 'CGG toolkit: Software components for computational genomics.'
   image: journal.pcbi.1011498.g002.PNG
-  description: ""
+  description: "This paper describes the re-launch of a range of established software components for computational genomics, made available online as open source."
   authors: Vasileiou D, Karapiperis C, Baltsavia I, Chasapi A, Ahrén D, Janssen PJ, Iliopoulos I, <em>Promponas VJ</em>, Enright AJ, Ouzounis CA. 
   link:
     url: https://doi.org/10.1371/journal.pcbi.1011498
     display: PLoS Comput Biol. 2023 Nov 7;19(11):e1011498. 
   highlight: 1    
+  news1: Resource available at <a href="https://github.com/bcpl-certh/cgg-toolkit">https://github.com/bcpl-certh/cgg-toolkit</a>. 
 
 - title: 'LIRcentral: a manually curated online database of experimentally validated functional LIR motifs.'
   image: lircentral.png
