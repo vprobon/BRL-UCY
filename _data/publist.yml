@@ -1,11 +1,16 @@
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
+- title: 'A paradigm for post-embryonic Oct4 re-expression: E7-induced hydroxymethylation regulates Oct4 expression in cervical cancer.'
+   image:
+   description:
+   authors: Panayiotou T, Eftychiou M, Patera E, <em>Promponas VJ</em>, Strati K. 
+   link:
+     url: https://doi.org/10.1002/jmv.29264
+     display: J Med Virol. 2023 Dec;95(12):e29264.
+   highlight: 1    
+
+
+  doi:  PMID: 38054553.
+
+
 
 - title: 'DisProt in 2024: improving function annotation of intrinsically disordered proteins.' 
    image:
