@@ -11,7 +11,7 @@ permalink: /publications/
 
 ## Group highlights
 
-**At the end of this page, you can find the [full list of publications and patents](#full-list-of-publications). See also  BRL@UCY papers in [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=promponas+VJ+or+promponas+VI+or+promponas+V&sort=pubdate&size=200).**
+**At the end of this page, you can find the [full list of publications](#full-list-of-publications). See also  BRL@UCY papers in [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=promponas+VJ+or+promponas+VI+or+promponas+V&sort=pubdate&size=200).**
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.publist %}
