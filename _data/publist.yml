@@ -1,3 +1,40 @@
+- title: 'DisProt in 2024: improving function annotation of intrinsically disordered proteins.' 
+   image:
+   description:
+   authors: Aspromonte MC, Nugnes MV, Quaglia F, Bouharoua A; DisProt Consortium; Tosatto SCE, Piovesan D.
+   link:
+     url: https://doi.org/10.1093/nar/gkad928
+     display: Nucleic Acids Res. 2024;52(D1):D434-D441.
+   highlight: 1    
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
+
+
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
+
 - title: 'LIRcentral: a manually curated online database of experimentally validated functional LIR motifs.'
   image: lircentral.png
   description: "Several selective macroautophagy receptor and adaptor proteins bind members of the Atg8 (autophagy related 8) family using short linear motifs (SLiMs), most often referred to as Atg8-family interacting motifs (AIMs) or LC3-interacting regions (LIRs). AIM/LIR motifs have been extensively studied during the last fifteen years, since they can uncover the underlying biological mechanisms and possible substrates for this key catabolic process of eukaryotic cells. Prompted by the fact that experimental information regarding LIR motifs can be found scattered across heterogeneous literature resources, we have developed LIRcentral, a freely available online repository for user-friendly access to comprehensive, high-quality information regarding LIR motifs from manually curated publications."
