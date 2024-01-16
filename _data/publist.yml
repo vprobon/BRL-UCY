@@ -9,7 +9,7 @@
 
 - title: 'DisProt in 2024: improving function annotation of intrinsically disordered proteins.' 
   image: DISPROT_ATG.png
-  description: ""
+  description: "This paper presents the latest version of the DisProt database, the gold standard database for intrinsically disordered proteins and regions, also introducing the thematic dataset on Autophagy proteins, with the contribution of BRL members."
   authors: Aspromonte MC, Nugnes MV, Quaglia F, Bouharoua A; <strong>DisProt Consortium</strong>; Tosatto SCE, Piovesan D.
   link:
     url: https://doi.org/10.1093/nar/gkad928
@@ -18,7 +18,7 @@
 
 - title: 'A choice, not an obligation : Releasing scientific software as open source should be the responsibility of the authors.'
   image: lalal.jpg
-  description: ""
+  description: "MMMM lalalalal"
   authors: Kappas I, <em>Promponas VJ</em>, Ouzounis CA.
   link:
     url: https://doi.org/10.1038/s44319-023-00039-9
