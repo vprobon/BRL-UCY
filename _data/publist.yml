@@ -1,3 +1,12 @@
+# - title:
+#   image:
+#   description:
+#   authors:
+#   link:
+#     url: https://doi.org/
+#     display:
+#   highlight: 1    
+
 - title: 'DisProt in 2024: improving function annotation of intrinsically disordered proteins.' 
    image:
    description:
@@ -7,33 +16,24 @@
      display: Nucleic Acids Res. 2024;52(D1):D434-D441.
    highlight: 1    
 
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
-
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
+- title: 'A choice, not an obligation : Releasing scientific software as open source should be the responsibility of the authors.'
+   image:
+   description:
+   authors: Kappas I, <em>Promponas VJ</em>, Ouzounis CA.
+   link:
+     url: https://doi.org/10.1038/s44319-023-00039-9
+     display: EMBO Rep. 2024 Jan 2.
+   highlight: 0
 
 
-# - title:
-#   image:
-#   description:
-#   authors:
-#   link:
-#     url: https://doi.org/
-#     display:
-#   highlight: 1    
+- title: 'CGG toolkit: Software components for computational genomics.'
+   image:
+   description:
+   authors: Vasileiou D, Karapiperis C, Baltsavia I, Chasapi A, Ahrén D, Janssen PJ, Iliopoulos I, <em>Promponas VJ</em>, Enright AJ, Ouzounis CA. 
+   link:
+     url: https://doi.org/10.1371/journal.pcbi.1011498
+     display: PLoS Comput Biol. 2023 Nov 7;19(11):e1011498. 
+   highlight: 1    
 
 - title: 'LIRcentral: a manually curated online database of experimentally validated functional LIR motifs.'
   image: lircentral.png
