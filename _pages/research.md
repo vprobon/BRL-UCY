@@ -10,12 +10,11 @@ permalink: /research/
 # Research 
 Our research in computational biology and bioinformatics is mainly oriented towards the interpretation of large scale genomic and biological data in order to reveal the principles governing the molecular basis of life. Along these lines, we develop/utilize computational methods (empirical, statistical and machine/deep learning) that exploit any available type of biological information (e.g. macromolecular sequences and structures, gene expression data, biomedical literature) towards understanding biological systems, ranging from macromolecules and macromolecular complexes, to phenotypes.
 
-In particular, we have a long-standing interest in the study of classes of {\textit {\footnotesize{non-globular proteins}}} (e.g. transmembrane proteins, protein sequences with local compositional biases or repeats) and during the last decade we have focused our research on protein components of eukaryotic endomembrane systems, in particular {\textit{\footnotesize{nuclear pore complex}}} subunits and components of the {\textit{\footnotesize{autophagy}}} machinery. More specifically, we devise algorithms, methods/tools, databases and computer systems for:
-\begin{enumerate}
-\item Protein sequence analysis and structural bioinformatics, e.g. repeats, low complexity/compositional bias, intrinsic structural disorder, (trans)membrane proteins.
-\item Computational comparative genomics, e.g. evolution of low complexity/compositionally biased sequences, computational approaches for synthetic biology (recently with wet-lab expansion).
-\item Biomedical text mining and its applications in biocuration (with a focus in autophagy).
-\end{enumerate}
+In particular, we have a long-standing interest in the study of classes of **non-globular proteins** (e.g. transmembrane proteins, protein sequences with local compositional biases or repeats) and during the last decade we have focused our research on protein components of eukaryotic endomembrane systems, in particular **nuclear pore complex** subunits and components of the **autophagy** machinery. More specifically, we devise algorithms, methods/tools, databases and computer systems for:
+
+- Protein sequence analysis and structural bioinformatics, e.g. repeats, low complexity/compositional bias, intrinsic structural disorder, (trans)membrane proteins.
+- Computational comparative genomics, e.g. evolution of low complexity/compositionally biased sequences, computational approaches for synthetic biology (recently with wet-lab expansion).
+- Biomedical text mining and its applications in biocuration (with a focus in autophagy).
 
 <!--
 # Research
